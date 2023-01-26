@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Enemy
+comment1.params=coords\ speed\ player\ map\ ai\ game
+comment1.target=Enemy(double[],\ double,\ Player,\ Map,\ AI,\ Game)
+comment10.params=directionS\ num
+comment10.target=void\ loadDirection(java.lang.String,\ int)
+comment11.params=
+comment11.target=boolean\ dead()
+comment12.params=
+comment12.target=Hitbox\ hitbox()
+comment2.params=
+comment2.target=void\ update()
+comment3.params=damage\ side
+comment3.target=void\ hit(double,\ Side)
+comment4.params=side\ velocity
+comment4.target=void\ hit(char,\ int)
+comment5.params=side
+comment5.target=boolean\ collisionCheck(int)
+comment6.params=
+comment6.target=void\ close()
+comment7.params=direction
+comment7.target=void\ animation(Side)
+comment8.params=directionS
+comment8.target=void\ animationCycle(java.lang.String)
+comment9.params=
+comment9.target=void\ loadIdle()
+numComments=13

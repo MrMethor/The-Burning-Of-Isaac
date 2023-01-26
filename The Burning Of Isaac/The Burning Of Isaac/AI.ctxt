@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=AI
+comment1.params=game
+comment1.target=AI(Game)
+comment2.params=
+comment2.target=void\ update()
+comment3.params=coords
+comment3.target=void\ spawnEnemy(double[])
+comment4.params=
+comment4.target=void\ close()
+comment5.params=map\ player
+comment5.target=void\ addReference(Map,\ Player)
+comment6.params=
+comment6.target=java.util.ArrayList\ enemies()
+numComments=7

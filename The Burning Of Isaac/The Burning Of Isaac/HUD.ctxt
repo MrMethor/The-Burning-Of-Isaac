@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=HUD
+comment1.params=map
+comment1.target=HUD(Map)
+comment2.params=health
+comment2.target=void\ healthUpdate(int)
+comment3.params=
+comment3.target=void\ healthReset()
+comment4.params=
+comment4.target=void\ minimapUpdate()
+comment5.params=
+comment5.target=void\ minimapReset()
+comment6.params=type
+comment6.target=void\ upgradeUpdate(java.lang.String)
+comment7.params=
+comment7.target=void\ upgradeTimer()
+comment8.params=map
+comment8.target=void\ newMap(Map)
+comment9.params=
+comment9.target=void\ close()
+numComments=10

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Button
+comment1.params=path\ slot\ type\ launcher
+comment1.target=Button(java.lang.String,\ int,\ int,\ Launcher)
+comment2.params=x\ y
+comment2.target=boolean\ clicked(int,\ int)
+comment3.params=
+comment3.target=void\ hide()
+numComments=4

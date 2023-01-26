@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Pause
+comment1.params=game
+comment1.target=Pause(Game)
+comment2.params=
+comment2.target=void\ show()
+comment3.params=
+comment3.target=void\ close()
+comment4.params=x\ y
+comment4.target=void\ click(int,\ int)
+comment5.params=path\ slot
+comment5.target=void\ newButton(java.lang.String,\ int)
+numComments=6

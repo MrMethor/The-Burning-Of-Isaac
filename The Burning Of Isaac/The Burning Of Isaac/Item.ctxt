@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Item
+comment1.params=x\ y\ ID
+comment1.target=Item(int,\ int,\ int)
+comment2.params=
+comment2.target=int\ id()
+comment3.params=
+comment3.target=void\ show()
+comment4.params=
+comment4.target=void\ close()
+comment5.params=
+comment5.target=Hitbox\ hitbox()
+numComments=6

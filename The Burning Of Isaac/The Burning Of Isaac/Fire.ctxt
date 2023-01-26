@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Fire
+comment1.params=x\ y
+comment1.target=Fire(int,\ int)
+comment2.params=
+comment2.target=void\ update()
+comment3.params=damage
+comment3.target=void\ hit(double)
+comment4.params=
+comment4.target=void\ close()
+comment5.params=
+comment5.target=Hitbox\ hitbox()
+comment6.params=
+comment6.target=boolean\ isBurning()
+comment7.params=
+comment7.target=void\ animationCycle()
+comment8.params=num
+comment8.target=void\ loadAnimation(int)
+numComments=9

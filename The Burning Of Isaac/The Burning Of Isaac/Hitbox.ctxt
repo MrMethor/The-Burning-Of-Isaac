@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Hitbox
+comment1.params=width\ height\ coords\ player
+comment1.target=Hitbox(double,\ double,\ double[],\ boolean)
+comment2.params=coords
+comment2.target=void\ update(double[])
+comment3.params=hitbox
+comment3.target=char\ hit(Hitbox)
+comment4.params=coords
+comment4.target=void\ changeCoords(double[])
+comment5.params=
+comment5.target=double[]\ get()
+comment6.params=
+comment6.target=double\ height()
+comment7.params=side
+comment7.target=double\ side(int)
+numComments=8

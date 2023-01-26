@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Side
+comment1.params=number\ name
+comment1.target=Side(int,\ java.lang.String)
+comment2.params=
+comment2.target=int\ number()
+numComments=3
