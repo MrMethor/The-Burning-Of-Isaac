@@ -1,3 +1,5 @@
+24.1.2023
+
 This is my 1st year university project.
 It is a program made in pure java, with very little experience in OOP and programming in general.
 Based on the popular video game The Binding Of Isaac, it's my wastest project so far in terms of scope.
