@@ -11,11 +11,13 @@ Textures:
 	Heart - https://www.pngitem.com/middle/hmibbwx_pink-pixel-heart-png-transparent-png/
 	Upgrade - https://www.pngegg.com/en/png-fkwqg
 	Map and Doors - https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/
-	Bottle - https://www.nicepng.com/ourpic/u2y3a9a9u2e6y3q8_potion-pixel-art-pepsi-logo/
+	Bottle (unused) - https://www.nicepng.com/ourpic/u2y3a9a9u2e6y3q8_potion-pixel-art-pepsi-logo/
 	Button - https://www.seekpng.com/ipng/u2e6t4y3u2q8w7w7_preview-medieval-gui-png/
 	Menu (Background) - https://www.newgrounds.com/art/view/baukjespirit/pixel-castle-landscape
 	Menu (Title) - https://cooltext.com/Logo-Design-Fantasy
 	Scroll - https://www.pngwing.com/en/free-png-yazqw/download
 	Death Screen (Background) - https://www.pikpng.com/transpng/ihRxwom/#google_vignette
 	Font - https://www.dafont.com/mephisto.font
-	Music - https://store.steampowered.com/app/11450/Overlord/
+
+Sounds:
+	Music and SFX - https://store.steampowered.com/app/11450/Overlord/
