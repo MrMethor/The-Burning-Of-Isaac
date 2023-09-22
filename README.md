@@ -1,4 +1,4 @@
-Thie is my 1st year university project.
+This is my 1st year university project.
 It is a program made in pure java, with very little experience in OOP and programming in general.
 Based on the popular video game The Binding Of Isaac, it's my wastest project so far in terms of scope.
 All the code is made by me except the classes Manager, Canvas and Image, which could be looked at as the "engine".
