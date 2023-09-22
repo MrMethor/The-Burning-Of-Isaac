@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="isaac">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/isaac.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
